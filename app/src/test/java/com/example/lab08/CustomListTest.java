@@ -38,6 +38,4 @@ public class CustomListTest {
         assertFalse(list.hasCity(edmonton));
 
     }
-
-    }
 }
